@@ -34,6 +34,18 @@ def import_data():
     except Exception as F:
         print F
 
+def flush_tables():
+    try:
+        db=mysql.connector.connect(user=user, password=passwd, host=hostname, database=database)
+        mycursor=db.cursor()
+        tables = [ "titles", "ratings" ]
+        for table in tables:
+            mycursor.execute("DROP TABLE " + table)
+        db.commit()
+    except Exception as F:
+        print F
+
+flush_tables()
 create_tables()
 import_data()
 
