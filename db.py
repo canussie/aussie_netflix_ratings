@@ -64,13 +64,13 @@ def find_match(title, year):
         host=HOSTNAME, database=DATABASE)
         mycursor = dbconnect.cursor()
         query = "SELECT * FROM titles WHERE primaryTitle = \"" + title + "\" and titleType = 'tvSeries'"
-#        query2 = "UPDATE titles set netflix = \"1\" WHERE primaryTitle = \"" + title + "\" and titleType = 'tvSeries'"
-        #print query
-        mycursor.execute(query)
-#        mycursor.execute(query2)
-#        dbconnect.commit()
-        results = mycursor.fetchall()
-        return results
+        query2 = "UPDATE titles set netflix = \'1\' WHERE primaryTitle = \"" + title + "\" and titleType = 'tvSeries'"
+        print query2
+#        mycursor.execute(query)
+        mycursor.execute(query2)
+        dbconnect.commit()
+#        results = mycursor.fetchall()
+#        return results
     except mysql.connector.Error as fail:
         print(fail)
    
