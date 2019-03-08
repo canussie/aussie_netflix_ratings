@@ -1,0 +1,55 @@
++--------------------------------+---------------+
+| primaryTItle                   | averageRating |
++--------------------------------+---------------+
+| Memory Love                    |           9.6 |
+| Yeh Meri Family                |           9.5 |
+| Rick and Morty                 |           9.3 |
+| Love Is in the Air             |           9.3 |
+| Leyla and Mecnun               |           9.2 |
+| Age of Rebellion               |           9.2 |
+| The Truth                      |             9 |
+| Ramayan                        |             9 |
+| Humsafar                       |             9 |
+| An Hour to Save Your Life      |             9 |
+| Fargo                          |             9 |
+| Car Masters: Rust to Riches    |             9 |
+| Zindagi Gulzar Hai             |             9 |
+| Emergency                      |             9 |
+| Death Note                     |             9 |
+| Stories by Rabindranath Tagore |             9 |
+| Still Game                     |           8.9 |
+| Kopitiam                       |           8.9 |
+| Sacred Games                   |           8.9 |
+| Black Mirror                   |           8.9 |
+| The Rise of Phoenixes          |           8.9 |
+| Arrested Development           |           8.9 |
+| One Strange Rock               |           8.9 |
+| Stranger Things                |           8.9 |
+| Six Flying Dragons             |           8.8 |
+| Ashes of Love                  |           8.8 |
+| Narcos                         |           8.8 |
+| The Mechanism                  |           8.8 |
+| The Bionic Vet                 |           8.8 |
+| Case Closed                    |           8.8 |
+| Peaky Blinders                 |           8.8 |
+| House of Cards                 |           8.8 |
+| A Touch of Green               |           8.8 |
+| Forensic Files                 |           8.8 |
+| Mr. Sunshine                   |           8.8 |
+| Monty Python's Flying Circus   |           8.8 |
+| The Haunting of Hill House     |           8.8 |
+| Norm Macdonald Has a Show      |           8.8 |
+| The Keepers                    |           8.8 |
+| Persona                        |           8.8 |
+| Moving Art                     |           8.7 |
+| Free Rein                      |           8.7 |
+| Young Justice                  |           8.7 |
+| Fake or Fortune?               |           8.7 |
+| Gomorrah                       |           8.7 |
+| World War II in Colour         |           8.7 |
+| Hilda                          |           8.7 |
+| Shtisel                        |           8.7 |
+| Someone Like You               |           8.7 |
+| Stranger Things                |           8.7 |
++--------------------------------+---------------+
+

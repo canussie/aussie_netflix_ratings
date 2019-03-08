@@ -1,0 +1,8 @@
+#
+
+Mariadb DB, with a database and credentials to connect
+python-mysql
+mysql-connector-python
+download imdb data files for titles and ratings
+
+
