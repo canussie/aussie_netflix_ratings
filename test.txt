@@ -1,55 +1,105 @@
-+--------------------------------+---------------+
-| primaryTItle                   | averageRating |
-+--------------------------------+---------------+
-| Memory Love                    |           9.6 |
-| Yeh Meri Family                |           9.5 |
-| Rick and Morty                 |           9.3 |
-| Love Is in the Air             |           9.3 |
-| Leyla and Mecnun               |           9.2 |
-| Age of Rebellion               |           9.2 |
-| The Truth                      |             9 |
-| Ramayan                        |             9 |
-| Humsafar                       |             9 |
-| An Hour to Save Your Life      |             9 |
-| Fargo                          |             9 |
-| Car Masters: Rust to Riches    |             9 |
-| Zindagi Gulzar Hai             |             9 |
-| Emergency                      |             9 |
-| Death Note                     |             9 |
-| Stories by Rabindranath Tagore |             9 |
-| Still Game                     |           8.9 |
-| Kopitiam                       |           8.9 |
-| Sacred Games                   |           8.9 |
-| Black Mirror                   |           8.9 |
-| The Rise of Phoenixes          |           8.9 |
-| Arrested Development           |           8.9 |
-| One Strange Rock               |           8.9 |
-| Stranger Things                |           8.9 |
-| Six Flying Dragons             |           8.8 |
-| Ashes of Love                  |           8.8 |
-| Narcos                         |           8.8 |
-| The Mechanism                  |           8.8 |
-| The Bionic Vet                 |           8.8 |
-| Case Closed                    |           8.8 |
-| Peaky Blinders                 |           8.8 |
-| House of Cards                 |           8.8 |
-| A Touch of Green               |           8.8 |
-| Forensic Files                 |           8.8 |
-| Mr. Sunshine                   |           8.8 |
-| Monty Python's Flying Circus   |           8.8 |
-| The Haunting of Hill House     |           8.8 |
-| Norm Macdonald Has a Show      |           8.8 |
-| The Keepers                    |           8.8 |
-| Persona                        |           8.8 |
-| Moving Art                     |           8.7 |
-| Free Rein                      |           8.7 |
-| Young Justice                  |           8.7 |
-| Fake or Fortune?               |           8.7 |
-| Gomorrah                       |           8.7 |
-| World War II in Colour         |           8.7 |
-| Hilda                          |           8.7 |
-| Shtisel                        |           8.7 |
-| Someone Like You               |           8.7 |
-| Stranger Things                |           8.7 |
-+--------------------------------+---------------+
++--------------------------------------+---------------+
+| primaryTItle                         | averageRating |
++--------------------------------------+---------------+
+| Memory Love                          |           9.6 |
+| Yeh Meri Family                      |           9.5 |
+| Rick and Morty                       |           9.3 |
+| Love Is in the Air                   |           9.3 |
+| Age of Rebellion                     |           9.2 |
+| Leyla and Mecnun                     |           9.2 |
+| Fargo                                |             9 |
+| Zindagi Gulzar Hai                   |             9 |
+| Emergency                            |             9 |
+| Death Note                           |             9 |
+| Car Masters: Rust to Riches          |             9 |
+| Stories by Rabindranath Tagore       |             9 |
+| Ramayan                              |             9 |
+| The Truth                            |             9 |
+| Humsafar                             |             9 |
+| An Hour to Save Your Life            |             9 |
+| Arrested Development                 |           8.9 |
+| The Rise of Phoenixes                |           8.9 |
+| Stranger Things                      |           8.9 |
+| Still Game                           |           8.9 |
+| One Strange Rock                     |           8.9 |
+| Kopitiam                             |           8.9 |
+| Sacred Games                         |           8.9 |
+| Black Mirror                         |           8.9 |
+| Case Closed                          |           8.8 |
+| Peaky Blinders                       |           8.8 |
+| House of Cards                       |           8.8 |
+| A Touch of Green                     |           8.8 |
+| Forensic Files                       |           8.8 |
+| Monty Python's Flying Circus         |           8.8 |
+| The Haunting of Hill House           |           8.8 |
+| Persona                              |           8.8 |
+| The Keepers                          |           8.8 |
+| Six Flying Dragons                   |           8.8 |
+| Mr. Sunshine                         |           8.8 |
+| Norm Macdonald Has a Show            |           8.8 |
+| Ashes of Love                        |           8.8 |
+| Narcos                               |           8.8 |
+| The Mechanism                        |           8.8 |
+| The Bionic Vet                       |           8.8 |
+| Archer                               |           8.7 |
+| Puffin Rock                          |           8.7 |
+| Anthony Bourdain: Parts Unknown      |           8.7 |
+| The Crown                            |           8.7 |
+| Project S the Series                 |           8.7 |
+| Shameless                            |           8.7 |
+| Misaeng                              |           8.7 |
+| Eyewitness                           |           8.7 |
+| Moving Art                           |           8.7 |
+| Free Rein                            |           8.7 |
+| Young Justice                        |           8.7 |
+| Fake or Fortune?                     |           8.7 |
+| Gomorrah                             |           8.7 |
+| World War II in Colour               |           8.7 |
+| Shtisel                              |           8.7 |
+| Hilda                                |           8.7 |
+| Stranger Things                      |           8.7 |
+| Someone Like You                     |           8.7 |
+| Small Animal Hospital                |           8.6 |
+| Bridal Mask                          |           8.6 |
+| Impractical Jokers                   |           8.6 |
+| Line of Duty                         |           8.6 |
+| Sons of Anarchy                      |           8.6 |
+| Vikings                              |           8.6 |
+| Stranger                             |           8.6 |
+| Powder                               |           8.6 |
+| Erased                               |           8.6 |
+| Dark                                 |           8.6 |
+| Peep Show                            |           8.6 |
+| Rake                                 |           8.6 |
+| Suits                                |           8.6 |
+| Fullmetal Alchemist                  |           8.6 |
+| Code Geass: Lelouch of the Rebellion |           8.6 |
+| Chef's Table                         |           8.6 |
+| Medal of Honor                       |           8.6 |
+| Samurai Champloo                     |           8.6 |
+| Star Trek: The Next Generation       |           8.6 |
+| Detectorists                         |           8.6 |
+| Sugar Rush                           |           8.6 |
+| Dave Chappelle                       |           8.6 |
+| Mad Men                              |           8.6 |
+| Making a Murderer                    |           8.6 |
+| American Crime Story                 |           8.5 |
+| Daniel Sloss: Live Shows             |           8.5 |
+| Sex Education                        |           8.5 |
+| Lion Pride                           |           8.5 |
+| Ezel                                 |           8.5 |
+| Mindhunter                           |           8.5 |
+| Violet Evergarden                    |           8.5 |
+| The IT Crowd                         |           8.5 |
+| Black Books                          |           8.5 |
+| Empresses in the Palace              |           8.5 |
+| Coast Guard Alaska                   |           8.5 |
+| In Family We Trust                   |           8.5 |
+| Baby Ballroom                        |           8.5 |
+| Outlander                            |           8.5 |
+| Healer                               |           8.5 |
+| Full House                           |           8.5 |
+| People Just Do Nothing               |           8.5 |
+| Narcos: Mexico                       |           8.5 |
++--------------------------------------+---------------+
 
