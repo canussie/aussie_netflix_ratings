@@ -1,0 +1,200 @@
+"Highway Thru Hell","8.2","2011",N/A
+"Something in the Rain","8.2","2018","2018"
+"Limmy's Show!","8.2","2009",N/A
+"Dirty Money","8.2","2018",N/A
+"Hardy Bucks","8.2","2010",N/A
+"Doc Martin","8.3","2004",N/A
+"The Horn","8.3","2016",N/A
+"Game of Silence","8.3","2012","2012"
+"Guerra de Idolos","8.3","2017",N/A
+"Intelligence","8.3","2005","2007"
+"The Kindness Diaries","8.3","2017","2019"
+"Little Things","8.3","2016",N/A
+"Rishta.com","8.3","2010",N/A
+"Raja Rasoi Aur Anya Kahaniyan","8.3","2014","2014"
+"Green Wing","8.3","2004","2007"
+"Dogs","8.3","2018",N/A
+"The Get Down","8.3","2016","2017"
+"The Adventures of Tintin","8.3","1991","1992"
+"Life","8.3","2007","2009"
+"Dirk Gently's Holistic Detective Agency","8.3","2016","2017"
+"Booba","8.3","2014",N/A
+"The Inbetweeners","8.3","2008","2010"
+"Travelers","8.3","1996",N/A
+"Reply 1997","8.3","2012","2013"
+"Homeland","8.3","2011",N/A
+"Happy!","8.3","2017",N/A
+"The Beat","8.3","2010",N/A
+"Kingdom","8.3","2019",N/A
+"Defendant","8.3","2017","2017"
+"Take My Brother Away","8.3","2018",N/A
+"The Sound of Your Heart","8.3","2016",N/A
+"Ozark","8.3","2017",N/A
+"Wakfu","8.3","2008",N/A
+"Sunderland 'Til I Die","8.3","2018",N/A
+"Master of None","8.3","2015",N/A
+"Justice","8.3","1954","1956"
+"Live","8.3","2018",N/A
+"Julie's Greenroom","8.3","2017",N/A
+"Back to 1989","8.3","2016","2016"
+"Clean Break","8.3","2012",N/A
+"Meteor Garden","8.3","2018",N/A
+"Motown Magic","8.3","2018",N/A
+"Last Chance to See","8.3","2009",N/A
+"Tales by Light","8.3","2015",N/A
+"The Good Wife","8.3","2009","2016"
+"The Last Kingdom","8.3","2015",N/A
+"Star Trek","8.3","1966","1969"
+"Grand Hotel","8.3","2016",N/A
+"Grace and Frankie","8.3","2015",N/A
+"Trigun","8.3","1998","1998"
+"MythBusters","8.3","2003",N/A
+"Longmire","8.3","2012","2017"
+"Tree with Deep Roots","8.3","2011","2011"
+"The Originals","8.3","2013","2018"
+"StoryBots Super Songs","8.3","2016",N/A
+"Atypical","8.3","2017",N/A
+"Secret Garden","8.3","2010","2011"
+"Broadchurch","8.3","2013","2017"
+"Dragons: Race to the Edge","8.3","2015","2018"
+"Japanese Style Originator","8.3","2008",N/A
+"Pinocchio","8.3","2014","2015"
+"Red vs. Blue","8.4","2003",N/A
+"Abstract: The Art of Design","8.4","2017",N/A
+"Please Like Me","8.4","2013","2016"
+"Trollhunters: Tales of Arcadia","8.4","2016","2018"
+"Prison Playbook","8.4","2017",N/A
+"Que Pena tu Serie","8.4","2015","2015"
+"A Korean Odyssey","8.4","2017",N/A
+"Feed the Beast","8.4","2013",N/A
+"Sense8","8.4","2015","2018"
+"Trailer Park Boys","8.4","2001","2018"
+"Brooklyn Nine-Nine","8.4","2013",N/A
+"The Umbrella Academy","8.4","2019",N/A
+"Timeline","8.4","1989",N/A
+"When Calls the Heart","8.4","2014",N/A
+"The Killing","8.4","2007","2012"
+"The Dragon Prince","8.4","2018",N/A
+"The Deep","8.4","2015",N/A
+"Sisters","8.4","2016",N/A
+"Good Doctor","8.4","2018","2018"
+"Babylon Berlin","8.4","2017",N/A
+"Monty Don's Italian Gardens","8.4","2011",N/A
+"Brain Games","8.4","2011",N/A
+"Khelti Hai Zindagi Aankh Micholi","8.4","2013",N/A
+"Kingdom","8.4","2014",N/A
+"Queer Eye","8.4","2018",N/A
+"Heartland","8.4","2007",N/A
+"The Toys That Made Us","8.4","2017",N/A
+"The Paper","8.4","2016",N/A
+"Chef's Table: France","8.4","2016",N/A
+"Final Space","8.4","2018",N/A
+"Hip-Hop Evolution","8.4","2016",N/A
+"Violet Evergarden","8.5","2018",N/A
+"BoJack Horseman","8.5","2014",N/A
+"Daniel Sloss: Live Shows","8.5","2018",N/A
+"Happy Valley","8.5","2014",N/A
+"Lion Pride","8.5","2017",N/A
+"Ezel","8.5","2009","2011"
+"Baby Ballroom","8.5","2017",N/A
+"Mystery Science Theater 3000","8.5","1988","1999"
+"Healer","8.5","2014","2015"
+"Full House","8.5","2014","2017"
+"People Just Do Nothing","8.5","2014",N/A
+"American Crime Story","8.5","2016",N/A
+"Mindhunter","8.5","2017",N/A
+"In Family We Trust","8.5","2018",N/A
+"The Royals","8.5","2014",N/A
+"Spartacus","8.5","2010","2013"
+"Strongland","8.5","2018",N/A
+"Sex Education","8.5","2019",N/A
+"Narcos: Mexico","8.5","2018",N/A
+"Empresses in the Palace","8.5","2011",N/A
+"Justice","8.5","2009",N/A
+"Coast Guard Alaska","8.5","2011",N/A
+"Last Chance U","8.5","2016",N/A
+"Outlander","8.5","2014",N/A
+"The IT Crowd","8.5","2006","2013"
+"Black Books","8.5","2000","2004"
+"Powder","8.6","2010",N/A
+"Fullmetal Alchemist","8.6","2003","2004"
+"Samurai Champloo","8.6","2004","2005"
+"Star Trek: The Next Generation","8.6","1987","1994"
+"Medal of Honor","8.6","2018",N/A
+"Sugar Rush","8.6","2005",N/A
+"Line of Duty","8.6","2012",N/A
+"Bridal Mask","8.6","2012","2012"
+"Chef's Table","8.6","2015",N/A
+"Rake","8.6","2010","2018"
+"Erased","8.6","2016","2016"
+"Mad Men","8.6","2007","2015"
+"Vikings","8.6","2013",N/A
+"Dark","8.6","2017",N/A
+"Detectorists","8.6","2014","2017"
+"Suits","8.6","2011",N/A
+"Dave Chappelle","8.6","2017","2017"
+"Code Geass: Lelouch of the Rebellion","8.6","2006","2012"
+"Small Animal Hospital","8.6","2014",N/A
+"Stranger","8.6","2017",N/A
+"Peep Show","8.6","2003","2015"
+"Impractical Jokers","8.6","2011",N/A
+"Making a Murderer","8.6","2015",N/A
+"Sons of Anarchy","8.6","2008","2014"
+"Misaeng","8.7","2014",N/A
+"Shtisel","8.7","2013",N/A
+"Moving Art","8.7","2014","2017"
+"Free Rein","8.7","2014",N/A
+"Shameless","8.7","2011",N/A
+"Eyewitness","8.7","1994",N/A
+"Anthony Bourdain: Parts Unknown","8.7","2013","2018"
+"Hilda","8.7","2018","2018"
+"Fake or Fortune?","8.7","2010",N/A
+"Young Justice","8.7","2010",N/A
+"Someone Like You","8.7","2015","2015"
+"Gomorrah","8.7","2014",N/A
+"World War II in Colour","8.7","2009",N/A
+"Puffin Rock","8.7","2015",N/A
+"Stranger Things","8.7","2008",N/A
+"The Crown","8.7","2016",N/A
+"Project S the Series","8.7","2017","2017"
+"Archer","8.7","2009",N/A
+"House of Cards","8.8","2013","2018"
+"The Haunting of Hill House","8.8","2018",N/A
+"Narcos","8.8","2015","2017"
+"The Keepers","8.8","2017",N/A
+"Persona","8.8","2016","2016"
+"Mr. Sunshine","8.8","2018",N/A
+"Norm Macdonald Has a Show","8.8","2018",N/A
+"A Touch of Green","8.8","2015",N/A
+"Peaky Blinders","8.8","2013",N/A
+"Case Closed","8.8","1993","1994"
+"Six Flying Dragons","8.8","2015","2016"
+"The Mechanism","8.8","2018",N/A
+"Forensic Files","8.8","1996","2011"
+"Ashes of Love","8.8","2018","2018"
+"The Bionic Vet","8.8","2010",N/A
+"Monty Python's Flying Circus","8.8","1969","1974"
+"Still Game","8.9","2002",N/A
+"Stranger Things","8.9","2016",N/A
+"One Strange Rock","8.9","2018",N/A
+"Kopitiam","8.9","1997",N/A
+"Arrested Development","8.9","2003",N/A
+"Sacred Games","8.9","2018",N/A
+"Black Mirror","8.9","2011",N/A
+"The Rise of Phoenixes","8.9","2018","2018"
+"Ramayan","9","1987","1988"
+"Stories by Rabindranath Tagore","9","2015","2015"
+"Humsafar","9","2011","2012"
+"Death Note","9","2006","2007"
+"Car Masters: Rust to Riches","9","2018",N/A
+"The Truth","9","2017",N/A
+"Fargo","9","2014",N/A
+"Zindagi Gulzar Hai","9","2012","2013"
+"An Hour to Save Your Life","9","2014",N/A
+"Emergency","9","1959",N/A
+"Age of Rebellion","9.2","2018","2018"
+"Leyla and Mecnun","9.2","2011","2014"
+"Love Is in the Air","9.3","2010",N/A
+"Rick and Morty","9.3","2013",N/A
+"Yeh Meri Family","9.5","2018",N/A
+"Memory Love","9.6","2017","2017"
