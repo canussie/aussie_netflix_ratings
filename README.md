@@ -6,6 +6,7 @@ This is work in progress, I hope to build a complete web app to display the info
 ## Todo
   - Nodejs interface to view data
   - clean up data from imdb, remove records that are not on netflix
+  - add DB update functionality
 
 ## PreReqs
 
