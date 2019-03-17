@@ -3,6 +3,10 @@ Project to link Aussie Netflix TV Series with Ratings such as IMDB
 
 This is work in progress, I hope to build a complete web app to display the information and allow users to view the data in multiple ways.
 
+## Todo
+  - Nodejs interface to view data
+  - clean up data from imdb, remove records that are not on netflix
+
 ## PreReqs
 
   - Get the imdb titles and ratings datadumps https://datasets.imdbws.com/.
