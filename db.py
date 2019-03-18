@@ -5,7 +5,7 @@ from mysql.connector.constants import ClientFlag
 
 HOSTNAME = "localhost"
 USER = "dba"
-PASSWD = "password1234"
+PASSWD = "XXXX"
 DATABASE = "movies"
 TITLES_CSV = "/tmp/titles.csv"
 RATINGS_CSV = "/tmp/ratings.tsv"
@@ -22,7 +22,7 @@ def create_tables():
         (tconst VARCHAR(255), titleType VARCHAR(255),\
         primaryTitle VARCHAR(255), originalTitle VARCHAR(255), isAdult VARCHAR(255),\
         startYear VARCHAR(255), endYear VARCHAR(255), runtimeMinutes VARCHAR(255),\
-        genres VARCHAR(255), netflix BOOL default 0)")
+        genres VARCHAR(255))")
         # create ratings table
         mycursor.execute("CREATE TABLE IF NOT EXISTS ratings (tconst VARCHAR(255),\
         averageRating FLOAT, numVotes VARCHAR(255))")
@@ -40,6 +40,8 @@ def import_data():
         load_ratings = "LOAD DATA LOCAL INFILE '" + RATINGS_CSV + "' INTO TABLE ratings"
         mycursor.execute(load_titles)
         mycursor.execute(load_ratings)
+        mycursor.execute("alter table titles add index (tconst)")
+        mycursor.execute("alter table ratings add index (tconst)")
         dbconnect.commit()
     except mysql.connector.Error as fail:
         print(fail)
