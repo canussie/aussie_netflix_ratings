@@ -5,7 +5,7 @@ from mysql.connector.constants import ClientFlag
 
 HOSTNAME = "localhost"
 USER = "dba"
-PASSWD = "XXXX"
+PASSWD = "password1234"
 DATABASE = "movies"
 TITLES_CSV = "/tmp/titles.csv"
 RATINGS_CSV = "/tmp/ratings.tsv"
@@ -25,7 +25,7 @@ def create_tables():
         genres VARCHAR(255))")
         # create ratings table
         mycursor.execute("CREATE TABLE IF NOT EXISTS ratings (tconst VARCHAR(255),\
-        averageRating FLOAT, numVotes VARCHAR(255))")
+        averageRating FLOAT, numVotes VARCHAR(255), netflix BOOL default 0)")
     except mysql.connector.Error as fail:
         print(fail)
 
