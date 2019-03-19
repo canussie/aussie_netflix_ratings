@@ -21,11 +21,11 @@ def create_tables():
         mycursor.execute("CREATE TABLE IF NOT EXISTS titles \
         (tconst VARCHAR(255), titleType VARCHAR(255),\
         primaryTitle VARCHAR(255), originalTitle VARCHAR(255), isAdult VARCHAR(255),\
-        startYear VARCHAR(255), endYear VARCHAR(255), runtimeMinutes VARCHAR(255),\
+        startYear INT(255), endYear INT(255), runtimeMinutes INT(255),\
         genres VARCHAR(255))")
         # create ratings table
         mycursor.execute("CREATE TABLE IF NOT EXISTS ratings (tconst VARCHAR(255),\
-        averageRating FLOAT, numVotes VARCHAR(255), netflix BOOL default 0)")
+        averageRating FLOAT, numVotes INT(255), netflix BOOL default 0)")
     except mysql.connector.Error as fail:
         print(fail)
 
